@@ -2,7 +2,7 @@
 
 **Company:** Noccarc Robotics Pvt. Ltd.
 
-**Location:* Pune, India
+**Location:** Pune, India
 
 **Duration:** Oct 2020 - Mar 2023
 
